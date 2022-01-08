@@ -1,4 +1,4 @@
-# PySed: A pythonic text tools for Unix command line
+# PySed: A pythonic command line tools for Unix shell
 
 ## Intro
 
